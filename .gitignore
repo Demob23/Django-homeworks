@@ -160,6 +160,5 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-3.2-crud
 3.3-permissions
 3.4-django-testing
